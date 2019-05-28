@@ -126,7 +126,7 @@
                                         <v-list-tile-content>
                                             <v-list-tile-title class="text-xs-left">Shampoo</v-list-tile-title>
                                             <v-list-tile-title class="text-xs-right red--text caption">Remove</v-list-tile-title>
-                                            <v-list-tile-title class="text-xs-right black--text caption"><v-icon small dark>remove_circle</v-icon>1</v-list-tile-title>
+                                            <v-list-tile-title class="text-xs-right"><i class="material-icons">remove_circle </i> 1 <i class="material-icons">add_circle</i></v-list-tile-title>
                                             <v-list-tile-sub-title>Available Quantity  -  5</v-list-tile-sub-title>
                                         </v-list-tile-content>
                                     </div>
@@ -138,6 +138,7 @@
                                         <v-list-tile-content>
                                             <v-list-tile-title class="text-xs-left">Shampoo</v-list-tile-title>
                                             <v-list-tile-title class="text-xs-right red--text caption">Remove</v-list-tile-title>
+                                            <v-list-tile-title class="text-xs-right"><i class="material-icons">remove_circle </i> 1 <i class="material-icons">add_circle</i></v-list-tile-title>
                                             <v-list-tile-sub-title>Available Quantity  -  5</v-list-tile-sub-title>
                                         </v-list-tile-content>
                                     </div>
@@ -149,6 +150,7 @@
                                         <v-list-tile-content>
                                             <v-list-tile-title class="text-xs-left">Shampoo </v-list-tile-title>
                                             <v-list-tile-title class="text-xs-right red--text caption">Remove</v-list-tile-title>
+                                            <v-list-tile-title class="text-xs-right"><i class="material-icons">remove_circle </i> 1 <i class="material-icons">add_circle</i></v-list-tile-title>
                                             <v-list-tile-sub-title>Available Quantity  -  5</v-list-tile-sub-title>
                                         </v-list-tile-content>
                                         <v-list-tile-action>
